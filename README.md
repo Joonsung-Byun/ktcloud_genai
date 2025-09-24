@@ -1,2 +1,3 @@
 # ktcloud_genai
-ktcloud_genai
+## 학습기간
+2025.09.23 ~ 2026.04.22
